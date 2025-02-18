@@ -2397,7 +2397,7 @@ input, select, textarea {
 			}
 
 				ul.pagination li > .page.active {
-					background-color: #ffffff;
+					background-color: #231ac9;
 					color: #242943;
 				}
 
@@ -3380,7 +3380,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/龜背型設計-3.png");
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3410,10 +3410,10 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #6a86af;
 			content: '';
 			display: block;
-			height: 100%;
+			height: 7%;
 			left: 0;
 			opacity: 0.85;
 			position: absolute;
