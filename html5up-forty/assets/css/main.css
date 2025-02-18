@@ -2397,7 +2397,7 @@ input, select, textarea {
 			}
 
 				ul.pagination li > .page.active {
-					background-color: #231ac9;
+					background-color: #ffffff;
 					color: #242943;
 				}
 
@@ -3410,12 +3410,12 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #6a86af;
+			background-color: #5c68a5;
 			content: '';
 			display: block;
 			height: 7%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.5;
 			position: absolute;
 			top: 0;
 			width: 100%;
